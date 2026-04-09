@@ -3,8 +3,9 @@ This repository includes a list of reviewed publications in different formats as
 - citations.bib includes the citations of the reviewed papers in bibtex format.
 - publications_reviewed.xlsx contains the reviewed papers and additional context about the content of the publications as Excel-Table
 - reviewed_publications.md contains the reviewed papers and additional context about the content of the publications as markdown
-
-
+- 
+# Please Note:
+Each paper was assigned to exactly one primary algorithmic category based on the main defect-detection model reported by the authors. Auxiliary modules used only for preprocessing or data generation were not used for primary categorization.
 
 
 
