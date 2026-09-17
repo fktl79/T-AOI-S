@@ -9,7 +9,7 @@ Each paper was assigned to exactly one primary algorithmic category based on the
 
 
 # Codebook:
-- **Algorithm_category**: rule-based / classical image processing; classical ML; CNN classifier; one-stage detector; two-stage detector; segmentation network; generative / anomaly detection; transformer; hybrid (joined with "+"); review.
+- **Algorithm_category**: rule-based / classical image processing; classical ML; CNN classifier; one-stage detector; two-stage detector; segmentation network; generative / anomaly detection; transformer; review.
 - **automation_level**: no automation / partial (offline, manual handling) / fully automated inline.
 - **reflection_as_challenge**, **Geometry_as_challenge**: yes (explicitly addressed) / mentioned / no.
 - **Surface Geometry**: planar, spherical/aspherical, zylindrical, free form, not reported. **Geometry_stated**: explicit / inferred / unclear. **Geometry quantified**: yes + [values] / no.
