@@ -9,13 +9,13 @@ Each paper was assigned to exactly one primary algorithmic category based on the
 
 
 # Codebook:
-- **Algorithm_category**: rule-based / classical image processing; classical ML; CNN classifier; one-stage detector; two-stage detector; segmentation network; generative / anomaly detection; transformer; review.
-- **automation_level**: no automation / partial (offline, manual handling) / fully automated inline.
+- **Algorithm_category**: rule-based / classical image processing; classical ML; CNN;  generative / anomaly detection; transformer;
+- **automation_level**: no automation; partial; fully automated.
 - **reflection_as_challenge**, **Geometry_as_challenge**: yes (explicitly addressed) / mentioned / no.
-- **Surface Geometry**: planar, spherical/aspherical, zylindrical, free form, not reported. **Geometry_stated**: explicit / inferred / unclear. **Geometry quantified**: yes + [values] / no.
+- **Surface Geometry**: planar, spherical/aspherical, cylindrical, free form, not reported. **Geometry_stated**: explicit / inferred / unclear. **Geometry quantified**: yes + [values] / no.
 - **Defect_types**: English terms separated by semicolons.
 - **Defect_sizes**: values with units as reported, otherwise "not reported". **Defect_size_stated**: explicit / inferred / unclear.
-- **adressed_challenges**: tags separated by semicolons: small defects; low contrast; reflections; transparency; curved geometry; limited data; class imbalance; real-time; background noise; illumination variation; multi-scale defects; annotation cost.
+- **adressed_challenges**: tags separated by semicolons:  English terms separated by semicolons
 
 
 
